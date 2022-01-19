@@ -3,7 +3,7 @@ My name is Sander and I am currently a second year master student in the program
 
 <a href="https://nl.linkedin.com/in/sander-van-gestel-3366701b5">My linkedin</a>
 <br><a href="https://github.com/veegeee">My github</a></br>
-<br><a href="Sander van gestel.pdf">CV</a></br>
+<br><a href="Sander van gestel cv.pdf">CV</a></br>
 
 ## Interests & Education
 <div>
