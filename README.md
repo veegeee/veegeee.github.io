@@ -1,7 +1,7 @@
 ## About me
 My name is Sander and I am currently a second year master student in the program Methodology and Statistics for the Behavioral, Biomedical and Social Sciences at Utrecht University. I am writing my master thesis about the joint model. More specifically, I am investigating whether the joint model is more appropriate for analyzing longitudinal data obtained in ALS-studies than the linear mixed model. I really like my thesis topic because I can use statistics to the benefit of, something that I think is everything, health. I hope to contribute to the field of medical statistics. If you want to contact me you can send an email to s.vangestel@students.uu.nl.
 
-## Interests
+## Interests & Education
 <div>
   <div style="float:left; width: 50%">
 <ul>
